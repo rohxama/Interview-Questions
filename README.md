@@ -4,9 +4,9 @@ A repository for storing and practicing interview questions and coding problems.
 
 ## Structure
 
-- **Daily_Code/**: Contains daily coding problems and solutions.
-- **Algorithms/**: Contains code and explanations for various algorithms.
-- **Data_Structures/**: Contains code and explanations for different data structures.
+- **Daily_Code**: Contains daily coding problems and solutions.
+- **Algorithms**: Contains code and explanations for various algorithms.
+- **Data_Structures**: Contains code and explanations for different data structures.
 
 ## Contact
 
